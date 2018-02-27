@@ -1,0 +1,34 @@
+h1{
+	font-size: 60px;
+	font-family: Pacifico;
+	color: indigo;
+	text-align: center;
+}
+
+small{
+	font-size: 30px;
+	text-align: center;
+}
+
+.formContent{
+	align-content: center;
+}
+
+input{
+	height:50px;
+	width:800px;
+
+}
+
+button{
+	cursor: zoom-in;
+
+}
+
+.inputForm{
+	-moz-border-radius:10px; /* Firefox */
+    -webkit-border-radius: 10px; /* Safari, Chrome */
+    -khtml-border-radius: 10px; /* KHTML */
+    border-radius: 10px; /* CSS3 */
+    behavior:url("border-radius.htc");
+}
